@@ -11,21 +11,18 @@ I am also a metor/coarch to whom is interested in the **Integrated Circuit** ind
 
 ## My Experience
 
-It follows design, cad, and architecture.
-
-I wass in Physical Design team to do the **Place & Route** for many years.
+It follows Design, Cad, and Architecture. I wass in Physical Design team to do the **Place & Route** for many years.
+Then I moved to CAD team for flow methodology and infrastructure building.
 
 - I was doing small design (digital part in Analog IP) to large SoC (mobile SoC block and top)
 - I was developing APR utilities and project work automation
 - I was architecting the ASIC design platform and serving different teams and projects.
 
----
-
-I like web design.
-
----
-
 I like sharing and grow with the team.
+
+---
+
+I like web design. [>>>](web.md)
 
 ---
 
