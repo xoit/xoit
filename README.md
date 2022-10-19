@@ -1,11 +1,6 @@
 ## My Name
 
-This is Steve.
-
-I am a hardware engineer focusing on **ASIC Implementation** area.
-I like engineering, and solving the practical/real-project problems.
-
-I am also a metor/coarch to whom is interested in the **Integrated Circuit** industry.
+This is Steve, one hardware engineer focusing on **ASIC Implementation** in Bay Area. I like engineering, and solving the practical/real-project problems. I am also a metor/coarch to whom is interested in the **Integrated Circuit** industry.
 
 ---
 
@@ -22,7 +17,12 @@ I like sharing and grow with the team.
 
 ---
 
-I like web design. [>>>](web.md)
+## My Interests
+
+- Web Design. [>>>](web.md)
+- Hiking
+- Computer Drawing
+- ...
 
 ---
 
