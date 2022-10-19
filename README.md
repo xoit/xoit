@@ -1,12 +1,8 @@
-## My Name
-
 This is Steve, one hardware engineer focusing on **ASIC Implementation** in Bay Area. I like engineering, and solving the practical/real-project problems. I am also a metor/coarch to whom is interested in the **Integrated Circuit** industry.
 
 ---
 
-## My Experience
-
-It follows Design, Cad, and Architecture. I wass in Physical Design team to do the **Place & Route** for many years.
+My Experience follows Design, Cad, and Architecture. I wass in Physical Design team to do the **Place & Route** for many years.
 Then I moved to CAD team for flow methodology and infrastructure building.
 
 - I was doing small design (digital part in Analog IP) to large SoC (mobile SoC block and top)
