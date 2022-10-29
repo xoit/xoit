@@ -13,10 +13,7 @@ I like sharing and grow with the team.
 
 ---
 
-## My Interests
-
 - Web Design. [>>>](web.md)
-- Hiking
 - Computer Drawing
 - ...
 
