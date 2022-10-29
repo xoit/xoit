@@ -9,8 +9,6 @@ Then I moved to CAD team for flow methodology and infrastructure building. And n
 - I was developing APR utilities and project work automation
 - I was architecting the ASIC design platform and serving different teams and projects.
 
-I like sharing and grow with the team.
-
 ---
 
 - Web Design. [>>>](web.md)
