@@ -11,7 +11,7 @@ Then I moved to CAD team for flow methodology and infrastructure building. And n
 
 ---
 
-- Web Design. [>>>](web.md)
+- Web Design
 - Computer Drawing
 - ...
 
